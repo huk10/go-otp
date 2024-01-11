@@ -16,8 +16,8 @@ jobs:
         run: go test -v ./...
 
       - name: Update coverage badge
-        uses: ncruces/go-coverage-report@main
+        uses: ncruces/go-coverage-report@v0
         with:
-          coverage-file: coverage.out
-          reuse-go: true
+          report: true
+          chart: true
           amend: true
