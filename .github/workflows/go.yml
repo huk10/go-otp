@@ -18,6 +18,6 @@ jobs:
       - name: Update coverage badge
         uses: ncruces/go-coverage-report@v0
         with:
-          report: true
-          chart: true
+          report: false
+          chart: false
           amend: true
