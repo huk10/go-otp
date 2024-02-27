@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/huk10/go-otp/workflows/Go/badge.svg)](https://github.com/huk10/go-otp/actions)
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/huk10/go-otp/blob/master/LICENSE)
 [![Go Doc](https://pkg.go.dev/badge/github.com/huk10/go-otp?status.svg)](https://pkg.go.dev/github.com/huk10/go-otp)
-[![Go Coverage](https://github.com/huk10/go-otp/wiki/coverage.svg)](https://raw.githack.com/wiki/huk10/go-otp/coverage.html)
+![](https://github.com/huk10/go-otp/wiki/coverage.svg)
 [![Release](https://img.shields.io/github/release/huk10/go-otp.svg?style=flat-square)](https://github.com/huk10/go-otp/releases)
 
 This is a Golang OTP library compatible with google-authenticator APP.
